@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Mini Teste Vocacional de TI</title>
+	<link rel="stylesheet" type="text/css" href="./style.css" />
+</head>
+<body>
+<main>
+
+<h1>Mini Teste Vocacional de TI</h1>
+
+
+    <p>O teste vocacional ajuda as pessoas a descobrirem áreas profissionais que combinam com<br> seus interesses. Na área de Tecnologia da Informação existem diversas carreiras. Selecione as<br> áreas que mais chamam sua atenção e descubra qual perfil combina mais com você.</p>
+<p>A tecnologia está presente em praticamente todas as profissões. Conhecer diferentes áreas<br> pode ajudar você a encontrar uma carreira que combine com seus talentos e objetivos.</p>
+
+<form action="php.php" method="post">
+
+	<label>Nome:</label><br>
+	<input type="text" required name="nome" maxlength="30" /><br>
+
+	<label>Idade:</label><br>
+	<input type="number" required name="idade" maxlength="2" /><br><br>
+	
+	<label>Áreas de interesses:</label><br><br>
+	
+	<input type="checkbox" name="interesses[]" value="Programação"  >Programação</br>
+	<input type="checkbox" name="interesses[]" value="Redes" >Redes <br>
+	<input type="checkbox" name="interesses[]" value="Banco">Banco de Dados <br>
+	<input type="checkbox" name="interesses[]" value="Design" >Design<br><br>
+
+
+	<input type="submit" value="Ver resultado" />
+
+</form>
+
+</main>
+</body>
+</html>
+
+
+<!--$ss=$_POST['vetor'];
+
+if in array("Programação", interesses){}!-->
