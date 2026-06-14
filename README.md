@@ -28,7 +28,7 @@ Desenvolvido com:
 
 ## Projeto
 
-Atividade proposta por uma estagiária da Uniasselvi.
+Atividade.
 
 - <a href="https://gustavowolfer.github.io/Mini-teste-vocacional-de-TI/" target="_blank" >Acesse o projeto, online</a>
 
