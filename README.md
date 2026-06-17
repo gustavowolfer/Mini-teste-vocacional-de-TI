@@ -7,8 +7,8 @@ Atividade de sala de aula<br/>
 </p>
 
 <p align="center">
-  <a href="#-tecnologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-projeto">Projeto</a>
+  <a href="#tec">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#pro">Projeto</a>
 </p>
 
 <br>
@@ -17,7 +17,7 @@ Atividade de sala de aula<br/>
   <img alt="Imagens" src="assets/algo.png" width="100%">
 </p>
 
-## Technologies
+## <p id="tec">Technologies</p>
 
 Desenvolvido com:
 
@@ -27,11 +27,11 @@ Desenvolvido com:
 - Canva
 - Ferramenta de captura do windows
 
-## Projeto
+## <p id="pro">Projeto</p>
 
 Atividade de sala de aula proposta por uma estagiária da Uniasselvi.
 O intuito do projeto é ajudar as pessoas interessadas nas áreas da TI a encontrarem sua vocação.
 
-- <a href="https://gustavowolfer.github.io/Mini-teste-vocacional-de-TI/" target="_blank" >Acesse o projeto, online</a>
+- <a href="https://gustavowolfer.github.io/Mini-teste-vocacional-de-TI" target="_blank" >Acesse o projeto, online</a>
 
 ---
