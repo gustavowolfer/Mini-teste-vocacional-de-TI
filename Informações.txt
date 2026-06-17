@@ -1,0 +1,23 @@
+Trabalho – HTML – PHP Vetores
+Mini Teste Vocacional de TI
+
+	Crie uma página HTML contendo um formulário para um mini teste vocacional da área de Tecnologia da
+Informação. O formulário deve solicitar o nome, a idade e permitir que o usuário selecione uma ou mais áreas de
+interesse por meio de caixas de seleção (checkbox).
+	Ao enviar o formulário, os dados devem ser enviados para uma página PHP utilizando o método POST, na página
+PHP, receba os dados enviados pelo formulário e desenvolva as seguintes funcionalidades:
+
+ Receber e armazenar as variáveis enviadas pelo formulário.
+ Receber as áreas de interesse em um vetor.
+ Verificar a idade do usuário utilizando uma estrutura if/else.
+ Caso a idade seja menor que 16 anos, exibir uma mensagem informando que o usuário ainda tem bastante
+tempo para conhecer novas áreas.
+ Caso a idade seja maior ou igual a 16 anos, exibir o nome, a idade e todas as áreas de interesse selecionadas.
+ Percorrer o vetor de áreas utilizando uma estrutura de repetição.
+ Para cada área selecionada, exibir uma sugestão de carreira relacionada:
+o Programação → Você pode gostar da carreira de Desenvolvedor.
+o Redes → Você pode gostar da carreira de Administrador de Redes.
+o Banco de Dados → Você pode gostar da carreira de Administração de Bancos de Dados
+o Design → Você pode gostar da carreira de Designer de Interfaces.
+Utilize os conceitos estudados em aula, incluindo formulários HTML, método POST, vetores, estruturas
+condicionais e estruturas de repetição.Disciplina: Programação para WEB II

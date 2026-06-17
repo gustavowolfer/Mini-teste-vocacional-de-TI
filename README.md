@@ -1,3 +1,4 @@
+<html lang="pt-br">
 <h1 align="center"> Mini teste vocacional de TI </h1>
 
 <p align="center">
@@ -28,7 +29,8 @@ Desenvolvido com:
 
 ## Projeto
 
-Atividade.
+Atividade de sala de aula proposta por uma estagiária da Uniasselvi.
+O intuito do projeto é ajudar as pessoas interessadas nas áreas da TI a encontrarem sua vocação.
 
 - <a href="https://gustavowolfer.github.io/Mini-teste-vocacional-de-TI/" target="_blank" >Acesse o projeto, online</a>
 
